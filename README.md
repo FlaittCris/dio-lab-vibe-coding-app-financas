@@ -104,8 +104,7 @@ O objetivo é oferecer uma experiência mais fluida e natural, com recomendaçõ
 - Linguagem acessível e educativa, em português.
 ...
 
-  
-  interações com o Lovoble:
+    interações com o Lovoble:
   > Crie um App de Finanças Loja de kombucha com Base no seguinde PRD (product Requirent Document):{PRD}
   > Criar uma meta para Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas um asssistente financeiro reconheceu, poderia verificar? Além disso, onde vejo os gáficos e Extratos?
   > sim (quer que eu adicione uma tela de relatórios com gráficos e extratos detalhados das transações?)
